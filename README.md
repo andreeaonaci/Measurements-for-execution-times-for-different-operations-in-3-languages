@@ -1,0 +1,1 @@
+In this project focused on measuring execution times in different programming languages, I analyzed memory allocation, memory access, and key thread operations (creation, context switching, and migration) in Java, C, and C#. This exploration deepened my language-specific insights and highlighted the significance of performance optimization in software development.
